@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thi Thanh Tam</h1>
 
 
-- 👀 I’m interested in *Database*, *Devops*... .
+- 👀 I’m interested in *Database*,....
 
 - 📫 How to reach me **ntam07116@gmail.com**.
 
