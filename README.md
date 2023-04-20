@@ -8,6 +8,7 @@
 
 
 <div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=tamn2101" height="150" alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api?username=tamn2101&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tamn2101"  height="150"/>
 </div>
 <!--
