@@ -1,6 +1,6 @@
 ## 📝 Summary:
 
-<h1 align="center">Hi 👋, I'm Nguyen Thi Thanh Tam</h1>
+<h1 align="center">I'm Nguyen Thi Thanh Tam <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
 - 👀 I’m interested in _Database_,....
 
