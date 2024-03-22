@@ -6,6 +6,8 @@
 
 - 📫 How to reach me **ntam07116@gmail.com**.
 
+- 📫 How to reach me **ntam07116@gmail.com**..
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   
